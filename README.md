@@ -1,0 +1,2 @@
+# RobingBot
+Robin Hood Helper
